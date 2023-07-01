@@ -2,7 +2,7 @@
 
 <h2 align="center">💡 Made in Greece, 2002. 💡</h2>
 <h4 align="center">🧠 I’m currently working on upgrading the Skills I already have.</h4>
-<h4 align="center">👨‍💻 Privacy & Coding Addict</h4>
+<h4 align="center">👨‍💻 Coding Addict</h4>
 <br>
 
 <h2 align="center">Connect with me:</h2>
