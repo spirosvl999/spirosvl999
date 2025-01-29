@@ -1,4 +1,4 @@
-<h1 align="center">👨💻Sup, didn't expect you here.👨💻</h1>
+<h1 align="center">👨💻Sup, didn't expect you here.💻👨</h1>
 
 <h2 align="center">💡 Made in Greece, 2002. 💡</h2>
 <h4 align="center">🧠 I’m currently working updating my coding skills & focus on my studies.</h4>
