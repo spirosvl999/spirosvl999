@@ -11,3 +11,5 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=spirosvl999&show_icons=true&locale=en&layout=compact&theme=darcula&hide=shaderlab,mathematica" alt="spirosvl999"/></p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=spirosvl999&theme=darcula" alt="GitHub Streak"/></p>
