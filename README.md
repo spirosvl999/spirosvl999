@@ -3,7 +3,7 @@
 <h2 align="center">💡 Made in Greece, 2002.💡</h2>
 <h4 align="center">🧠 I’m currently focusing on my studies.</h4>
 <h4 align="center">🎣 Other Interests: Volunteering, Football, Fishing, World cuisines.</h4>
-<h4 align="center">📫 Contact me at spirosvlachos.skr@outlook.com.gr</h4>
+<h4 align="center">📫 Contact me at vlachosspiridwn@gmail.com</h4>
 <br>
 
 <h2 align="center">Connect with me:</h2>
