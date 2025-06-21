@@ -1,7 +1,7 @@
 <h1 align="center">👨💻Sup, didn't expect you here.💻👨</h1>
 
 <h2 align="center">💡 Made in Greece in 2002.💡</h2>
-<h4 align="center">🧠 I’m currently working on my thesis.</h4>
+<h4 align="center">🧠 I’m currently working on my thesis and some side projects.</h4>
 <h4 align="center">🎣 Other Interests: Volunteering, Football, Fishing, World cuisines.</h4>
 <h4 align="center">📫 Contact me at vlachosspiridwn@gmail.com</h4>
 <br>
